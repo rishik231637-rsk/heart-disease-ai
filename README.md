@@ -17,3 +17,5 @@ A machine learning web application that predicts the likelihood of heart disease
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
+   ## 🔗 Live Demo
+You can view the live application here: [PASTE YOUR STREAMLIT LINK HERE]
